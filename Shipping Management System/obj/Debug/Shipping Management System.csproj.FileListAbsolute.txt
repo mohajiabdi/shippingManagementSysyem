@@ -1,0 +1,74 @@
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\Shipping Management System.exe.config
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\Shipping Management System.exe
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\Shipping Management System.pdb
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping Management System.csproj.AssemblyReference.cache
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping_Management_System.Properties.Resources.resources
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping Management System.csproj.GenerateResource.cache
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping Management System.csproj.CoreCompileInputs.cache
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping Management System.exe
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping Management System.pdb
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\Guna.UI2.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping_Management_System.Customers.resources
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping.810594A7.Up2Date
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping_Management_System.Login.resources
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping_Management_System.Dashboard.resources
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping_Management_System.Cargo.resources
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping_Management_System.Shipping.resources
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping_Management_System.Report.resources
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\EnvDTE.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\stdole.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\EnvDTE.xml
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping_Management_System.UserManager.resources
+C:\Users\RAQIIS COMPUTER\Documents\GitHub\Coding-Zone\cSharp_Advanced\Shipping Management System\Shipping Management System\obj\Debug\Shipping_Management_System.About.resources
